@@ -218,5 +218,6 @@
     { "id": "noteblock_xylophone", "name": "Note Block - Xylophone", "source": "Minecraft", "tags": ["note"] },
     { "id": "noteblock_guitar", "name": "Note Block - Guitar", "source": "Minecraft", "tags": ["note"] },
     { "id": "noteblock_flute", "name": "Note Block - Flute", "source": "Minecraft", "tags": ["note"] },
-    { "id": "noteblock_pling", "name": "Note Block - Pling", "source": "Minecraft", "tags": ["note"] }
+    { "id": "noteblock_pling", "name": "Note Block - Pling", "source": "Minecraft", "tags": ["note"] },
+    { "id": "bass", "name": "bass.wav", "source": "Unknown" }
 ]
