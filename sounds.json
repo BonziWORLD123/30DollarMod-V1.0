@@ -223,5 +223,5 @@
     { "id": "bass", "emoji": "🎵", "name": "bass.wav", "source": "Unknown", "tags": ["percussion"] },
     { "id": "deh", "name": "Deh", "source": "Roblox" },
     { "id": "hamburger", "emoji": "🍔", "name": "hamburger", "source": "neonsynthosc" },
-    { "id": "stalker", "name": "hl2 stalker scream', "source": "Half-Life 2" }
+    { "id": "stalker", "name": "hl2 stalker scream", "source": "Half-Life 2" }
 ]
