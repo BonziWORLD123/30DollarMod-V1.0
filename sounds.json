@@ -224,6 +224,6 @@
     { "id": "deh", "name": "Deh", "source": "Roblox", "tags": ["note"] },
     { "id": "hamburger", "emoji": "🍔", "name": "hamburger", "source": "neonsynthosc", "tags": ["note"] },
     { "id": "stalker", "name": "hl2 stalker scream", "source": "Half-Life 2", "tags": ["note"] },
-    { "id": "jesseandmike", "name": "JesseAndMike Video End", "source": "JesseAndMike, "tags": ["percussion"]" },
+    { "id": "jesseandmike", "name": "JesseAndMike Video End", "source": "JesseAndMike, "tags": ["note"]" },
     { "id": "heyapple", "emoji": "🍊", "name": "Hey Apple", "source": "Annoying Orange", "tags": ["note"] },
 ]
