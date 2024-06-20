@@ -231,5 +231,8 @@
     { "id": "wateronthehill", "name": "WATER ON THE HILL", "source": "Geometry Dash" },
     { "id": "forgetmenot", "name": "Forget Me Not", "source": "Patrick Patrikios" },
     { "id": "oioioi", "name": "oi oi oi red larva", "source": "Larva" },
-    { "id": "eeiei", "name": "e ei ei", "source": "I'm on Vacation" }
+    { "id": "eeiei", "name": "e ei ei", "source": "I'm on Vacation" },
+
+    { "id": "taperewind", "emoji": "📼", "name": "Tape Rewind", "source": "Unknown", "tags": ["percussion"] },
+    { "id": "suspense2", "emoji": "😨", "name": "Suspense 2", "source": "Unknown" }
 ]
