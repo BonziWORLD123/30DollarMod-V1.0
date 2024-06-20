@@ -221,9 +221,9 @@
     { "id": "noteblock_pling", "name": "Note Block - Pling", "source": "Minecraft", "tags": ["note"] },
     
     { "id": "bass", "emoji": "🎵", "name": "bass.wav", "source": "Roblox", "tags": ["percussion"] },
-    { "id": "deh", "name": "Deh", "source": "Roblox", "tags": ["note"] },
-    { "id": "hamburger", "emoji": "🍔", "name": "hamburger", "source": "neonsynthosc", "tags": ["note"] },
-    { "id": "stalker", "name": "hl2 stalker scream", "source": "Half-Life 2", "tags": ["note"] },
-    { "id": "jesseandmike", "name": "JesseAndMike Video End", "source": "JesseAndMike", "tags": ["percussion"] },
-    { "id": "heyapple", "emoji": "🍊", "name": "Hey Apple", "source": "Annoying Orange", "tags": ["note"] },
+    { "id": "deh", "name": "Deh", "source": "Roblox" },
+    { "id": "hamburger", "emoji": "🍔", "name": "hamburger", "source": "neonsynthosc" },
+    { "id": "stalker", "name": "hl2 stalker scream", "source": "Half-Life 2" },
+    { "id": "jesseandmike", "name": "JesseAndMike Video End", "source": "JesseAndMike" },
+    { "id": "heyapple", "emoji": "🍊", "name": "Hey Apple", "source": "Annoying Orange" },
 ]
