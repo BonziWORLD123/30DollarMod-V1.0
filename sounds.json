@@ -226,5 +226,7 @@
     { "id": "stalker", "name": "hl2 stalker scream", "source": "Half-Life 2" },
     { "id": "jesseandmike", "name": "JesseAndMike Video End", "source": "JesseAndMike" },
     { "id": "yoda", "name": "Lego Yoda Death", "source": "Unknown" },
-    { "id": "heyapple", "emoji": "🍊", "name": "Hey Apple", "source": "Annoying Orange" }
+    { "id": "heyapple", "emoji": "🍊", "name": "Hey Apple", "source": "Annoying Orange" },
+    { "id": "fireinthehole", "name": "Fire In The Hole", "source": "Geometry Dash" },
+    { "id": "wateronthehill", "name": "Water On The Hill", "source": "Geometry Dash" },
 ]
